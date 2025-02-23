@@ -93,6 +93,8 @@ Unit tests - are close to the source of an application, They consist in testing 
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
 - Whether the software meets the needs of the end-user and is ready for deployment.
+
+  
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
